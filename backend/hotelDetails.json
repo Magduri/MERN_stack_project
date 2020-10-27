@@ -1,0 +1,2726 @@
+{
+    "result": "OK",
+    "data": {
+        "body": {
+            "header": "New York, New York, United States of America",
+            "query": {
+                "destination": {
+                    "id": "1506246",
+                    "value": "New York, New York, United States of America",
+                    "resolvedLocation": "CITY:1506246:UNKNOWN:UNKNOWN"
+                }
+            },
+            "searchResults": {
+                "totalCount": 1513,
+                "results": [
+                    {
+                        "id": 634418464,
+                        "name": "The Grand NYC",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/20000000/19800000/19794400/19794327/b02255b8_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "38 West 31st Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.4,
+                            "rating": "5.4",
+                            "total": 388,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.7 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$35",
+                                "exactCurrent": 35.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "NoMad",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.74725,
+                            "lon": -73.98776
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 19794327,
+                        "vrBadge": "Apartments",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 862447168,
+                        "name": "Studios in New York",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/27000000/26930000/26920300/26920224/6a2e0949_l.jpg",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "38 W 31st St",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7.4",
+                            "total": 96,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.7 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$52",
+                                "exactCurrent": 52.04
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "NoMad",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.74715,
+                            "lon": -73.98792
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 26920224,
+                        "vrBadge": "Apartments",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 260469,
+                        "name": "The Ridge Hotel",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/2000000/1790000/1785000/1784927/4fbb77fb_l.jpg",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "151 East Houston Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10002",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.4,
+                            "rating": "8.4",
+                            "total": 480,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Very Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "2.3 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "2.4 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$53",
+                                "exactCurrent": 53.2
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Bowery",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.72287,
+                            "lon": -73.9894
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1784927,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 326002,
+                        "name": "Jazz On The Park Hostel",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/3000000/2910000/2906500/2906474/10b8d62a_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "36 West 106th Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10025",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.4,
+                            "rating": "5.4",
+                            "total": 88,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "3.2 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "3.1 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$55",
+                                "exactCurrent": 55.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Manhattan Valley",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 40.7982,
+                            "lon": -73.96097
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 2906474,
+                        "vrBadge": "Hostel",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 214272,
+                        "name": "Chelsea Inn",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/1000000/870000/865600/865587/2c053a85_l.jpg",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "46 W 17th St",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10011",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7.8",
+                            "total": 638,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "1.3 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "1.4 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$56",
+                                "exactCurrent": 56.14
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Union Square",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.738839,
+                            "lon": -73.994443
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 865587,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 1551505664,
+                        "name": "Private rooms near EWR and NYC",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/49000000/48460000/48453400/48453302/37c134ed_l.jpg",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "318 Magnolia Ave",
+                            "extendedAddress": "",
+                            "locality": "Elizabeth",
+                            "postalCode": "07206",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 2.0,
+                            "rating": "2.0",
+                            "total": 1,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "13 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "13 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$59",
+                                "exactCurrent": 58.5
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Elizabeth",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 40.654559,
+                            "lon": -74.18825
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 48453302,
+                        "vrBadge": "Apartments",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 468906,
+                        "name": "The Central Park North",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/9000000/8740000/8731800/8731737/7eff7560_l.jpg",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "137 W 111th street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10026",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.0,
+                            "rating": "7.0",
+                            "total": 205,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "3.4 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "3.4 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$59",
+                                "exactCurrent": 59.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Central Park North",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.799464,
+                            "lon": -73.9535
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 8731737,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 260158,
+                        "name": "Red Carpet Inn Newark/Irvington, NJ",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/2000000/1770000/1768700/1768627/01dbb362_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "100 Union Avenue",
+                            "extendedAddress": "",
+                            "locality": "Irvington",
+                            "postalCode": "07111",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6.0",
+                            "total": 935,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "13 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "13 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$60",
+                                "exactCurrent": 59.5,
+                                "old": "$70"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Irvington",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.723243,
+                            "lon": -74.231887
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 1768627,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 612705,
+                        "name": "The Nomad Suites & Apartments",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/16000000/15700000/15691900/15691811/518377e8_l.jpg",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "38 W 31st Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.2,
+                            "rating": "6.2",
+                            "total": 148,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.6 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.7 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$60",
+                                "exactCurrent": 60.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Koreatown",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 40.747542,
+                            "lon": -73.988336
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 15691811,
+                        "vrBadge": "Apartments",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 273442,
+                        "name": "Rodeway Inn Capri",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/3000000/2230000/2223600/2223555/c5eb1d13_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1 Valley Road",
+                            "extendedAddress": "",
+                            "locality": "Little Ferry",
+                            "postalCode": "07643",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6.0",
+                            "total": 221,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "7.2 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "7.2 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$64",
+                                "exactCurrent": 63.75
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Little Ferry",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 40.854608,
+                            "lon": -74.033352
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 2223555,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 205823,
+                        "name": "Knights Inn South Hackensack",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/1000000/900000/894700/894631/07ca85cb_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "410 Rt 46 West I 80 Exit 64",
+                            "extendedAddress": "",
+                            "locality": "South Hackensack",
+                            "postalCode": "07606",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 5.0,
+                            "rating": "5.0",
+                            "total": 90,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "7.6 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "7.5 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$64",
+                                "exactCurrent": 64.0,
+                                "old": "$80"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "South Hackensack",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|priceRangeCA|TESCO",
+                        "coordinate": {
+                            "lat": 40.85608,
+                            "lon": -74.04726
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 894631,
+                        "vrBadge": "Motel",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 571541,
+                        "name": "The Park Ave North",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/14000000/13440000/13432800/13432719/8360d5c9_l.jpg",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "65 East 129th Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10035",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.6,
+                            "rating": "7.6",
+                            "total": 286,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "4.4 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "4.3 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$65",
+                                "exactCurrent": 65.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "East Harlem",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|priceRangeUK|TESCO",
+                        "coordinate": {
+                            "lat": 40.807801,
+                            "lon": -73.937651
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 13432719,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 201844,
+                        "name": "Super 8 by Wyndham North Bergen NJ/NYC Area",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/1000000/860000/856100/856099/466cd4ad_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "2800 Columbia Ave",
+                            "extendedAddress": "",
+                            "locality": "North Bergen",
+                            "postalCode": "07047",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7.4",
+                            "total": 910,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "3.0 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "3.0 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$67",
+                                "exactCurrent": 67.15
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "North Bergen",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 40.77487,
+                            "lon": -74.038477
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 856099,
+                        "vrBadge": "Motel",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 1067471776,
+                        "name": "Umbrella Hotel Queens Airports",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/34000000/33330000/33327300/33327243/68a9c82d_l.jpg",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "124-18 Queens Blvd",
+                            "extendedAddress": "",
+                            "locality": "Kew Gardens",
+                            "postalCode": "11415",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.0,
+                            "rating": "6.0",
+                            "total": 795,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "8.9 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "8.9 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$67",
+                                "exactCurrent": 67.32,
+                                "old": "$79"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Queens",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO|showGoldContentDescriptionHCOMUSenUS",
+                        "coordinate": {
+                            "lat": 40.71256,
+                            "lon": -73.827699
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 33327243,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 539303,
+                        "name": "Motel 6 Elizabeth, NJ - Newark Liberty Intl Airport",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/12000000/11880000/11875000/11874903/138f180f_l.jpg",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "819 Spring Street",
+                            "extendedAddress": "",
+                            "locality": "Elizabeth",
+                            "postalCode": "07201",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 4.6,
+                            "rating": "4.6",
+                            "total": 846,
+                            "scale": 10
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "12 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "12 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$67",
+                                "exactCurrent": 67.49,
+                                "old": "$75"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Elizabeth",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.678486,
+                            "lon": -74.195316
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 11874903,
+                        "vrBadge": "Motel",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 1268797984,
+                        "name": "Wyndham Garden North Bergen Near Secaucus",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/40000000/39620000/39618700/39618687/06b74105_l.jpg",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "1706 PATERSON PLANK RD",
+                            "extendedAddress": "",
+                            "locality": "North Bergen",
+                            "postalCode": "07046",
+                            "region": "NJ",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 9.0,
+                            "rating": "9.0",
+                            "total": 16,
+                            "scale": 10,
+                            "badge": "superb",
+                            "badgeText": "Superb"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "3.0 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "3.1 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$68",
+                                "exactCurrent": 68.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "North Bergen",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13",
+                        "coordinate": {
+                            "lat": 40.76712,
+                            "lon": -74.043041
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 39618687,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 453028,
+                        "name": "NY Moore Hostel",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/8000000/7810000/7803500/7803456/a0a638cb_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "179 Moore Street",
+                            "extendedAddress": "",
+                            "locality": "Brooklyn",
+                            "postalCode": "11206",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7.8",
+                            "total": 117,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "4.4 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "4.5 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$68",
+                                "exactCurrent": 68.0,
+                                "old": "$80"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "East Williamsburg",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 40.704175,
+                            "lon": -73.937509
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 7803456,
+                        "vrBadge": "Hostel",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 461599,
+                        "name": "CITY ROOMS NYC - Chelsea",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/9000000/8370000/8369300/8369267/f41cb647_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "368 8th Avenue",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7.8",
+                            "total": 186,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.8 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$69",
+                                "exactCurrent": 69.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Chelsea",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 40.748651,
+                            "lon": -73.99604
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 8369267,
+                        "vrBadge": "Hostel",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 975416672,
+                        "name": "Broadway Suite NY",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/31000000/30460000/30450600/30450521/d8ce0b25_l.jpg",
+                        "starRating": 3.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "38 West 31st Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.4,
+                            "rating": "7.4",
+                            "total": 121,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.6 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.7 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$69",
+                                "exactCurrent": 69.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Koreatown",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "coordinate": {
+                            "lat": 40.74734,
+                            "lon": -73.987881
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 30450521,
+                        "vrBadge": "Apartments",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 482653,
+                        "name": "Macy Empire Apartments",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/10000000/9530000/9526700/9526696/08139825_l.jpg",
+                        "starRating": 3.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "38 W 31st St",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.8,
+                            "rating": "6.8",
+                            "total": 86,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.7 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$69",
+                                "exactCurrent": 69.3
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Koreatown",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.747044,
+                            "lon": -73.987159
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 9526696,
+                        "vrBadge": "Apartments",
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 479845,
+                        "name": "The Paul Hotel NYC-Chelsea, Ascend Hotel Collection",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/10000000/9280000/9272400/9272318/9e699002_l.jpg",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "32 West 29th Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10001",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.8,
+                            "rating": "7.8",
+                            "total": 704,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.8 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$70",
+                                "exactCurrent": 69.7
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "NoMad",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 40.746062,
+                            "lon": -73.989165
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 9272318,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 452020,
+                        "name": "Hotel 32 32",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/3000000/2650000/2645800/2645725/dc806b1f_l.jpg",
+                        "starRating": 4.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "32 E 32nd Street",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10016",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.0,
+                            "rating": "8.0",
+                            "total": 1348,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Very Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.7 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.8 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$70",
+                                "exactCurrent": 70.0,
+                                "old": "$100"
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Manhattan",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.746207,
+                            "lon": -73.983351
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 2645725,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 650836736,
+                        "name": "Feather Factory",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/21000000/20310000/20307400/20307398/a76f6280_l.jpg",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "26-32 Skillman Ave",
+                            "extendedAddress": "",
+                            "locality": "Long Island City",
+                            "postalCode": "11101",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 8.2,
+                            "rating": "8.2",
+                            "total": 800,
+                            "scale": 10,
+                            "badge": "very-good",
+                            "badgeText": "Very Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "2.5 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "2.5 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$70",
+                                "exactCurrent": 70.0
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Hunters Point",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                        "coordinate": {
+                            "lat": 40.74404,
+                            "lon": -73.94099
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 20307398,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 496002,
+                        "name": "Rodeway Inn Near JFK Airport",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/10000000/9800000/9793800/9793713/207ec3d4_l.jpg",
+                        "starRating": 2.0,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "136-05 Cranston Street",
+                            "extendedAddress": "",
+                            "locality": "Jamaica",
+                            "postalCode": "11434",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 6.8,
+                            "rating": "6.8",
+                            "total": 27,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "12 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "12 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$70",
+                                "exactCurrent": 70.3
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Rochdale",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|increaseNumberOfReviewsRequired|TESCO",
+                        "coordinate": {
+                            "lat": 40.668131,
+                            "lon": -73.783363
+                        },
+                        "providerType": "LOCAL",
+                        "supplierHotelId": 9793713,
+                        "isAlternative": false
+                    },
+                    {
+                        "id": 240327,
+                        "name": "Econo Lodge Times Square",
+                        "thumbnailUrl": "https://exp.cdn-hotels.com/hotels/2000000/1440000/1439200/1439159/7f6bb583_l.jpg",
+                        "starRating": 2.5,
+                        "urls": {},
+                        "address": {
+                            "streetAddress": "302 W 47th St",
+                            "extendedAddress": "",
+                            "locality": "New York",
+                            "postalCode": "10036",
+                            "region": "NY",
+                            "countryName": "United States",
+                            "countryCode": "us",
+                            "obfuscate": false
+                        },
+                        "guestReviews": {
+                            "unformattedRating": 7.2,
+                            "rating": "7.2",
+                            "total": 504,
+                            "scale": 10,
+                            "badge": "good",
+                            "badgeText": "Good"
+                        },
+                        "landmarks": [
+                            {
+                                "label": "City center",
+                                "distance": "0.3 miles"
+                            },
+                            {
+                                "label": "Times Square",
+                                "distance": "0.2 miles"
+                            }
+                        ],
+                        "ratePlan": {
+                            "price": {
+                                "current": "$71",
+                                "exactCurrent": 71.1
+                            },
+                            "features": {
+                                "paymentPreference": false,
+                                "noCCRequired": false
+                            }
+                        },
+                        "neighbourhood": "Midtown West",
+                        "deals": {},
+                        "messaging": {},
+                        "badging": {},
+                        "pimmsAttributes": "DoubleStamps|TESCO",
+                        "coordinate": {
+                            "lat": 40.760582,
+                            "lon": -73.987887
+                        },
+                        "providerType": "MULTISOURCE",
+                        "supplierHotelId": 1439159,
+                        "isAlternative": false
+                    }
+                ],
+                "pagination": {
+                    "currentPage": 1,
+                    "pageGroup": "EXPEDIA_IN_POLYGON",
+                    "nextPageStartIndex": 25,
+                    "nextPageNumber": 2,
+                    "nextPageGroup": "EXPEDIA_IN_POLYGON"
+                }
+            },
+            "sortResults": {
+                "options": [
+                    {
+                        "label": "Star rating",
+                        "itemMeta": "star",
+                        "choices": [
+                            {
+                                "label": "Stars (high to low)",
+                                "value": "STAR_RATING_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Stars (low to high)",
+                                "value": "STAR_RATING_LOWEST_FIRST",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Distance",
+                        "itemMeta": "distance",
+                        "choices": [
+                            {
+                                "label": "Distance to city center",
+                                "value": "DISTANCE_FROM_LANDMARK",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": [
+                            {
+                                "label": "Landmarks",
+                                "itemMeta": "landmarks",
+                                "choices": [
+                                    {
+                                        "label": "City center",
+                                        "id": 1506246.0
+                                    },
+                                    {
+                                        "label": "5th Avenue",
+                                        "id": 1693296.0
+                                    },
+                                    {
+                                        "label": "Barclays Center Brooklyn",
+                                        "id": 1734673.0
+                                    },
+                                    {
+                                        "label": "Broadway",
+                                        "id": 1651810.0
+                                    },
+                                    {
+                                        "label": "Bryant Park",
+                                        "id": 1632970.0
+                                    },
+                                    {
+                                        "label": "Carnegie Hall",
+                                        "id": 1768.0
+                                    },
+                                    {
+                                        "label": "Central Park",
+                                        "id": 1707357.0
+                                    },
+                                    {
+                                        "label": "Empire State Building",
+                                        "id": 1651828.0
+                                    },
+                                    {
+                                        "label": "Grand Central Terminal",
+                                        "id": 1651811.0
+                                    },
+                                    {
+                                        "label": "Jacob K. Javits Convention Center",
+                                        "id": 1409839.0
+                                    },
+                                    {
+                                        "label": "Madison Square Garden",
+                                        "id": 124.0
+                                    },
+                                    {
+                                        "label": "Manhattan Cruise Terminal",
+                                        "id": 1767568.0
+                                    },
+                                    {
+                                        "label": "MetLife Stadium",
+                                        "id": 1693213.0
+                                    },
+                                    {
+                                        "label": "Museum of Modern Art",
+                                        "id": 1638426.0
+                                    },
+                                    {
+                                        "label": "National September 11 Memorial",
+                                        "id": 1702545.0
+                                    },
+                                    {
+                                        "label": "Prudential Center",
+                                        "id": 1657851.0
+                                    },
+                                    {
+                                        "label": "Radio City Music Hall",
+                                        "id": 836.0
+                                    },
+                                    {
+                                        "label": "Rockefeller Center",
+                                        "id": 1651803.0
+                                    },
+                                    {
+                                        "label": "Times Square",
+                                        "id": 1409835.0
+                                    },
+                                    {
+                                        "label": "United Nations Headquarters",
+                                        "id": 1651837.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Stations",
+                                "itemMeta": "stations",
+                                "choices": [
+                                    {
+                                        "label": "34 St. - Penn Station",
+                                        "id": 1725609.0
+                                    },
+                                    {
+                                        "label": "42 St. - Port Authority Bus Terminal Station",
+                                        "id": 1725640.0
+                                    },
+                                    {
+                                        "label": "Brooklyn Flatbush Avenue Station",
+                                        "id": 1730722.0
+                                    },
+                                    {
+                                        "label": "Grand Central - 42 St. Station",
+                                        "id": 1730041.0
+                                    },
+                                    {
+                                        "label": "Hoboken Station",
+                                        "id": 1730712.0
+                                    },
+                                    {
+                                        "label": "Howard Beach JFK Airport Station",
+                                        "id": 1730050.0
+                                    },
+                                    {
+                                        "label": "Jamaica Station",
+                                        "id": 1730452.0
+                                    },
+                                    {
+                                        "label": "Jersey City Exchange Place Station",
+                                        "id": 1730710.0
+                                    },
+                                    {
+                                        "label": "Jersey City Newport Station",
+                                        "id": 1730713.0
+                                    },
+                                    {
+                                        "label": "Lexington Av.-63 St. Station",
+                                        "id": 1730132.0
+                                    },
+                                    {
+                                        "label": "New York Penn Station",
+                                        "id": 1730462.0
+                                    },
+                                    {
+                                        "label": "New York W 32nd St. Station",
+                                        "id": 1730472.0
+                                    },
+                                    {
+                                        "label": "Newark International Airport Station",
+                                        "id": 1752191.0
+                                    },
+                                    {
+                                        "label": "Newark Liberty Airport Station",
+                                        "id": 1752192.0
+                                    },
+                                    {
+                                        "label": "Newark Penn Station",
+                                        "id": 1732689.0
+                                    },
+                                    {
+                                        "label": "Port Authority Bus Terminal",
+                                        "id": 1767961.0
+                                    },
+                                    {
+                                        "label": "Queens Plaza Station",
+                                        "id": 1730202.0
+                                    },
+                                    {
+                                        "label": "Queensboro Plaza Station",
+                                        "id": 1730203.0
+                                    },
+                                    {
+                                        "label": "Times Sq. - 42 St. Station",
+                                        "id": 1730334.0
+                                    },
+                                    {
+                                        "label": "World Trade Center Station",
+                                        "id": 1730356.0
+                                    }
+                                ]
+                            },
+                            {
+                                "label": "Airports",
+                                "itemMeta": "airports",
+                                "choices": [
+                                    {
+                                        "label": "Caldwell, NJ (CDW-Essex County)",
+                                        "id": 1661600.0
+                                    },
+                                    {
+                                        "label": "John F. Kennedy International Airport (JFK)",
+                                        "id": 1662393.0
+                                    },
+                                    {
+                                        "label": "LaGuardia Airport (LGA)",
+                                        "id": 1412655.0
+                                    },
+                                    {
+                                        "label": "Linden, NJ (LDJ)",
+                                        "id": 1767899.0
+                                    },
+                                    {
+                                        "label": "Morristown, NJ (MMU-Morristown Municipal)",
+                                        "id": 1661606.0
+                                    },
+                                    {
+                                        "label": "New York, NY (NYS-Skyports Seaplane Base)",
+                                        "id": 1.268071E7
+                                    },
+                                    {
+                                        "label": "Newark, NJ (EWR-Liberty Intl.)",
+                                        "id": 1438803.0
+                                    },
+                                    {
+                                        "label": "Teterboro, NJ (TEB)",
+                                        "id": 1661609.0
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Guest rating",
+                        "itemMeta": "rating",
+                        "choices": [
+                            {
+                                "label": "Guest rating",
+                                "value": "GUEST_RATING",
+                                "selected": false
+                            }
+                        ],
+                        "enhancedChoices": []
+                    },
+                    {
+                        "label": "Price",
+                        "itemMeta": "price",
+                        "selectedChoiceLabel": "Price (low to high)",
+                        "choices": [
+                            {
+                                "label": "Price (high to low)",
+                                "value": "PRICE_HIGHEST_FIRST",
+                                "selected": false
+                            },
+                            {
+                                "label": "Price (low to high)",
+                                "value": "PRICE",
+                                "selected": true
+                            }
+                        ],
+                        "enhancedChoices": []
+                    }
+                ],
+                "distanceOptionLandmarkId": 1506246.0
+            },
+            "filters": {
+                "applied": false,
+                "name": {
+                    "item": {
+                        "value": ""
+                    },
+                    "autosuggest": {
+                        "additionalUrlParams": {
+                            "resolved-location": "CITY:1506246:UNKNOWN:UNKNOWN",
+                            "q-destination": "New York, New York, United States of America",
+                            "destination-id": "1506246"
+                        }
+                    }
+                },
+                "starRating": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "value": 5
+                        },
+                        {
+                            "value": 4
+                        },
+                        {
+                            "value": 3
+                        },
+                        {
+                            "value": 2
+                        },
+                        {
+                            "value": 1
+                        }
+                    ]
+                },
+                "guestRating": {
+                    "range": {
+                        "min": {
+                            "defaultValue": 0.0
+                        },
+                        "max": {
+                            "defaultValue": 10.0
+                        }
+                    }
+                },
+                "landmarks": {
+                    "selectedOrder": [],
+                    "items": [
+                        {
+                            "label": "City center",
+                            "value": "1506246"
+                        },
+                        {
+                            "label": "Times Square",
+                            "value": "1409835"
+                        },
+                        {
+                            "label": "Central Park",
+                            "value": "1707357"
+                        },
+                        {
+                            "label": "John F. Kennedy International Airport (JFK)",
+                            "value": "1662393"
+                        },
+                        {
+                            "label": "Rockefeller Center",
+                            "value": "1651803"
+                        },
+                        {
+                            "label": "Madison Square Garden",
+                            "value": "124"
+                        },
+                        {
+                            "label": "Broadway",
+                            "value": "1651810"
+                        },
+                        {
+                            "label": "Newark, NJ (EWR-Liberty Intl.)",
+                            "value": "1438803"
+                        },
+                        {
+                            "label": "Times Sq. - 42 St. Station",
+                            "value": "1730334"
+                        },
+                        {
+                            "label": "LaGuardia Airport (LGA)",
+                            "value": "1412655"
+                        },
+                        {
+                            "label": "Jacob K. Javits Convention Center",
+                            "value": "1409839"
+                        },
+                        {
+                            "label": "Grand Central Terminal",
+                            "value": "1651811"
+                        },
+                        {
+                            "label": "Empire State Building",
+                            "value": "1651828"
+                        },
+                        {
+                            "label": "Barclays Center Brooklyn",
+                            "value": "1734673"
+                        },
+                        {
+                            "label": "MetLife Stadium",
+                            "value": "1693213"
+                        },
+                        {
+                            "label": "Manhattan Cruise Terminal",
+                            "value": "1767568"
+                        },
+                        {
+                            "label": "Radio City Music Hall",
+                            "value": "836"
+                        },
+                        {
+                            "label": "Prudential Center",
+                            "value": "1657851"
+                        },
+                        {
+                            "label": "Port Authority Bus Terminal",
+                            "value": "1767961"
+                        },
+                        {
+                            "label": "Bryant Park",
+                            "value": "1632970"
+                        }
+                    ],
+                    "distance": []
+                },
+                "neighbourhood": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Manhattan",
+                            "value": 1535616
+                        },
+                        {
+                            "label": "Central New York City",
+                            "value": 10819060
+                        },
+                        {
+                            "label": "Midtown",
+                            "value": 1737998
+                        },
+                        {
+                            "label": "Queens",
+                            "value": 1633594
+                        },
+                        {
+                            "label": "SoHo",
+                            "value": 1662303
+                        },
+                        {
+                            "label": "Chelsea",
+                            "value": 1689733
+                        },
+                        {
+                            "label": "Upper West Side",
+                            "value": 1497254
+                        },
+                        {
+                            "label": "Upper East Side",
+                            "value": 1421960
+                        },
+                        {
+                            "label": "Financial District",
+                            "value": 10795144
+                        },
+                        {
+                            "label": "Lower East Side",
+                            "value": 10789547
+                        },
+                        {
+                            "label": "East New York",
+                            "value": 1748361
+                        },
+                        {
+                            "label": "Greenwich Village",
+                            "value": 1098
+                        },
+                        {
+                            "label": "Tribeca",
+                            "value": 10781536
+                        },
+                        {
+                            "label": "East Village",
+                            "value": 1705326
+                        },
+                        {
+                            "label": "Midtown East",
+                            "value": 1707375
+                        },
+                        {
+                            "label": "Chinatown",
+                            "value": 1405436
+                        },
+                        {
+                            "label": "Hell's Kitchen",
+                            "value": 1737990
+                        },
+                        {
+                            "label": "East Harlem",
+                            "value": 10819101
+                        },
+                        {
+                            "label": "Union Square",
+                            "value": 1635517
+                        },
+                        {
+                            "label": "West Village",
+                            "value": 1772685
+                        },
+                        {
+                            "label": "Midtown West",
+                            "value": 1662024
+                        },
+                        {
+                            "label": "NoMad",
+                            "value": 1912146
+                        },
+                        {
+                            "label": "Koreatown",
+                            "value": 1912145
+                        },
+                        {
+                            "label": "Flatiron District",
+                            "value": 1749875
+                        },
+                        {
+                            "label": "Brooklyn Heights",
+                            "value": 1425089
+                        },
+                        {
+                            "label": "Upper Manhattan",
+                            "value": 11047376
+                        },
+                        {
+                            "label": "Battery Park City",
+                            "value": 1750689
+                        },
+                        {
+                            "label": "Flushing Chinatown",
+                            "value": 10790628
+                        },
+                        {
+                            "label": "Gramercy",
+                            "value": 10819103
+                        },
+                        {
+                            "label": "Newport",
+                            "value": 10819073
+                        },
+                        {
+                            "label": "Bushwick",
+                            "value": 10518043
+                        },
+                        {
+                            "label": "Bay Ridge",
+                            "value": 11047364
+                        },
+                        {
+                            "label": "Downtown Newark",
+                            "value": 10517933
+                        },
+                        {
+                            "label": "Crown Heights",
+                            "value": 10518042
+                        },
+                        {
+                            "label": "Bedford-Stuyvesant",
+                            "value": 1693537
+                        },
+                        {
+                            "label": "NoHo",
+                            "value": 1749751
+                        },
+                        {
+                            "label": "Nolita",
+                            "value": 1912144
+                        },
+                        {
+                            "label": "Flatbush",
+                            "value": 11047304
+                        },
+                        {
+                            "label": "East Bronx",
+                            "value": 10819059
+                        },
+                        {
+                            "label": "Kips Bay",
+                            "value": 1912148
+                        },
+                        {
+                            "label": "Red Hook",
+                            "value": 1693509
+                        },
+                        {
+                            "label": "Borough Park",
+                            "value": 11047412
+                        },
+                        {
+                            "label": "Theater District",
+                            "value": 1634459
+                        },
+                        {
+                            "label": "Williamsburg",
+                            "value": 1689740
+                        },
+                        {
+                            "label": "Downtown Brooklyn",
+                            "value": 1662027
+                        },
+                        {
+                            "label": "Gowanus",
+                            "value": 10819092
+                        },
+                        {
+                            "label": "Meatpacking District",
+                            "value": 1693283
+                        },
+                        {
+                            "label": "Harlem",
+                            "value": 1689741
+                        },
+                        {
+                            "label": "Fort Greene",
+                            "value": 1693508
+                        },
+                        {
+                            "label": "Greenpoint",
+                            "value": 1693515
+                        },
+                        {
+                            "label": "Bowery",
+                            "value": 1693281
+                        },
+                        {
+                            "label": "Murray Hill",
+                            "value": 1693284
+                        },
+                        {
+                            "label": "Park Slope",
+                            "value": 1693497
+                        },
+                        {
+                            "label": "Little Italy",
+                            "value": 1634220
+                        },
+                        {
+                            "label": "Cobble Hill",
+                            "value": 1746595
+                        },
+                        {
+                            "label": "Garment District",
+                            "value": 1632972
+                        },
+                        {
+                            "label": "Canarsie",
+                            "value": 11047361
+                        },
+                        {
+                            "label": "Washington Heights",
+                            "value": 1689739
+                        },
+                        {
+                            "label": "West Bronx",
+                            "value": 10819058
+                        },
+                        {
+                            "label": "Boerum Hill",
+                            "value": 1912143
+                        },
+                        {
+                            "label": "Alphabet City",
+                            "value": 1693279
+                        },
+                        {
+                            "label": "Stone Street Historic District",
+                            "value": 1812211
+                        },
+                        {
+                            "label": "Paulus Hook",
+                            "value": 11426008
+                        },
+                        {
+                            "label": "Cypress Hills",
+                            "value": 1734811
+                        },
+                        {
+                            "label": "Bloomfield",
+                            "value": 1711184
+                        },
+                        {
+                            "label": "Inwood",
+                            "value": 12522481
+                        },
+                        {
+                            "label": "Central Park West",
+                            "value": 12520292
+                        },
+                        {
+                            "label": "The Waterfront",
+                            "value": 12526192
+                        },
+                        {
+                            "label": "Rochdale",
+                            "value": 12549583
+                        },
+                        {
+                            "label": "Jamaica Estates",
+                            "value": 12523031
+                        },
+                        {
+                            "label": "Ditmas Park",
+                            "value": 12538272
+                        },
+                        {
+                            "label": "Auburndale",
+                            "value": 12508855
+                        },
+                        {
+                            "label": "East Flatbush",
+                            "value": 12541424
+                        },
+                        {
+                            "label": "Westchester Square",
+                            "value": 12546187
+                        },
+                        {
+                            "label": "Ukrainian Village",
+                            "value": 12535013
+                        },
+                        {
+                            "label": "Willowbrook",
+                            "value": 12550624
+                        },
+                        {
+                            "label": "Sutton Place",
+                            "value": 12537705
+                        },
+                        {
+                            "label": "Greenwood",
+                            "value": 12543331
+                        },
+                        {
+                            "label": "Concourse",
+                            "value": 12549595
+                        },
+                        {
+                            "label": "Tremont",
+                            "value": 12544771
+                        },
+                        {
+                            "label": "Mott Haven",
+                            "value": 12549505
+                        },
+                        {
+                            "label": "Midwood",
+                            "value": 12539337
+                        },
+                        {
+                            "label": "Hunters Point",
+                            "value": 12504658
+                        },
+                        {
+                            "label": "Central Business District",
+                            "value": 12512810
+                        },
+                        {
+                            "label": "Hudson Square",
+                            "value": 12549413
+                        },
+                        {
+                            "label": "Park Versailles",
+                            "value": 12504572
+                        },
+                        {
+                            "label": "Exchange Place",
+                            "value": 12533580
+                        },
+                        {
+                            "label": "Murray Hill",
+                            "value": 12539331
+                        },
+                        {
+                            "label": "Exchange Place North",
+                            "value": 12529272
+                        },
+                        {
+                            "label": "Hamilton Heights",
+                            "value": 12528219
+                        },
+                        {
+                            "label": "Prospect-Lefferts Gardens Historic District",
+                            "value": 12540381
+                        },
+                        {
+                            "label": "East Williamsburg",
+                            "value": 12549502
+                        },
+                        {
+                            "label": "Hudson Exchange",
+                            "value": 12521939
+                        },
+                        {
+                            "label": "Kensington",
+                            "value": 12544793
+                        },
+                        {
+                            "label": "Lincoln Square",
+                            "value": 12514071
+                        },
+                        {
+                            "label": "Westchester Heights",
+                            "value": 12549598
+                        },
+                        {
+                            "label": "Bloomingdale",
+                            "value": 12504708
+                        },
+                        {
+                            "label": "Hillcrest",
+                            "value": 12528209
+                        },
+                        {
+                            "label": "Brownsville",
+                            "value": 12544796
+                        },
+                        {
+                            "label": "Clinton Hill",
+                            "value": 12541289
+                        },
+                        {
+                            "label": "Peter Cooper Village",
+                            "value": 12514185
+                        },
+                        {
+                            "label": "Two Bridges",
+                            "value": 12508936
+                        },
+                        {
+                            "label": "Rose Hill",
+                            "value": 12514355
+                        },
+                        {
+                            "label": "Prospect Lefferts Gardens",
+                            "value": 12549621
+                        },
+                        {
+                            "label": "Turtle Bay",
+                            "value": 12514117
+                        },
+                        {
+                            "label": "Manhattan Valley",
+                            "value": 12528298
+                        },
+                        {
+                            "label": "Highbridge",
+                            "value": 12549612
+                        },
+                        {
+                            "label": "Central Park South",
+                            "value": 12549074
+                        },
+                        {
+                            "label": "Briarwood",
+                            "value": 12537553
+                        },
+                        {
+                            "label": "Fort George",
+                            "value": 12522444
+                        },
+                        {
+                            "label": "Bath Beach",
+                            "value": 12546180
+                        },
+                        {
+                            "label": "Uptown",
+                            "value": 12542564
+                        },
+                        {
+                            "label": "Unionport",
+                            "value": 12530636
+                        },
+                        {
+                            "label": "Woodstock",
+                            "value": 12543026
+                        },
+                        {
+                            "label": "St. George",
+                            "value": 12546177
+                        },
+                        {
+                            "label": "Powerhouse Arts District",
+                            "value": 12517585
+                        },
+                        {
+                            "label": "Colgate Center",
+                            "value": 12517890
+                        },
+                        {
+                            "label": "West Brighton",
+                            "value": 12549503
+                        },
+                        {
+                            "label": "Gravesend",
+                            "value": 12541301
+                        },
+                        {
+                            "label": "Wingate",
+                            "value": 12538314
+                        },
+                        {
+                            "label": "Hudson Yards",
+                            "value": 12523781
+                        },
+                        {
+                            "label": "Ocean Hill",
+                            "value": 12548042
+                        },
+                        {
+                            "label": "Soundview",
+                            "value": 12530560
+                        },
+                        {
+                            "label": "Castle Hill",
+                            "value": 12508995
+                        },
+                        {
+                            "label": "Midtown South",
+                            "value": 12514070
+                        },
+                        {
+                            "label": "Prospect Heights",
+                            "value": 12538317
+                        },
+                        {
+                            "label": "Flatlands",
+                            "value": 12543061
+                        },
+                        {
+                            "label": "Rosebank",
+                            "value": 12549603
+                        },
+                        {
+                            "label": "Central Park North",
+                            "value": 12501535
+                        },
+                        {
+                            "label": "Tudor City",
+                            "value": 12523010
+                        }
+                    ]
+                },
+                "accommodationType": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Apart-hotels",
+                            "value": "20"
+                        },
+                        {
+                            "label": "Apartments",
+                            "value": "15"
+                        },
+                        {
+                            "label": "B&Bs",
+                            "value": "5"
+                        },
+                        {
+                            "label": "Cottages",
+                            "value": "11"
+                        },
+                        {
+                            "label": "Guest houses",
+                            "value": "30"
+                        },
+                        {
+                            "label": "Hostels",
+                            "value": "12"
+                        },
+                        {
+                            "label": "Hotels",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Inns",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Motels",
+                            "value": "7"
+                        },
+                        {
+                            "label": "Vacation homes",
+                            "value": "4"
+                        }
+                    ]
+                },
+                "facilities": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "24-hour front desk",
+                            "value": "2063"
+                        },
+                        {
+                            "label": "Airport transfers",
+                            "value": "513"
+                        },
+                        {
+                            "label": "Bar",
+                            "value": "515"
+                        },
+                        {
+                            "label": "Bathtub in room",
+                            "value": "517"
+                        },
+                        {
+                            "label": "Breakfast included",
+                            "value": "2048"
+                        },
+                        {
+                            "label": "Business facilities",
+                            "value": "519"
+                        },
+                        {
+                            "label": "Casino",
+                            "value": "2112"
+                        },
+                        {
+                            "label": "Childcare",
+                            "value": "521"
+                        },
+                        {
+                            "label": "Connecting rooms available",
+                            "value": "523"
+                        },
+                        {
+                            "label": "Cribs available",
+                            "value": "525"
+                        },
+                        {
+                            "label": "Electric vehicle charging point",
+                            "value": "1073743315"
+                        },
+                        {
+                            "label": "Gym",
+                            "value": "2"
+                        },
+                        {
+                            "label": "Internet Access",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Kitchen",
+                            "value": "32"
+                        },
+                        {
+                            "label": "Meeting Facilities",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Non-smoking",
+                            "value": "529"
+                        },
+                        {
+                            "label": "Parking available",
+                            "value": "16384"
+                        },
+                        {
+                            "label": "Parking included",
+                            "value": "134234112"
+                        },
+                        {
+                            "label": "Pet Friendly",
+                            "value": "64"
+                        },
+                        {
+                            "label": "Pool",
+                            "value": "128"
+                        },
+                        {
+                            "label": "Restaurant",
+                            "value": "256"
+                        },
+                        {
+                            "label": "Smoking areas",
+                            "value": "537"
+                        },
+                        {
+                            "label": "Spa",
+                            "value": "539"
+                        },
+                        {
+                            "label": "Wi-Fi Included",
+                            "value": "527"
+                        }
+                    ]
+                },
+                "accessibility": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Accessibility equipment for the deaf",
+                            "value": "2097152"
+                        },
+                        {
+                            "label": "Accessible bathroom",
+                            "value": "131072"
+                        },
+                        {
+                            "label": "Accessible parking",
+                            "value": "524288"
+                        },
+                        {
+                            "label": "Accessible path of travel",
+                            "value": "65536"
+                        },
+                        {
+                            "label": "Braille or raised signage",
+                            "value": "4194304"
+                        },
+                        {
+                            "label": "In-room accessibility",
+                            "value": "1048576"
+                        },
+                        {
+                            "label": "Roll-in shower",
+                            "value": "262144"
+                        },
+                        {
+                            "label": "Wheelchair accessible rooms",
+                            "value": "541"
+                        }
+                    ]
+                },
+                "themesAndTypes": {
+                    "applied": false,
+                    "items": [
+                        {
+                            "label": "Adventure",
+                            "value": "18"
+                        },
+                        {
+                            "label": "Beach",
+                            "value": "6"
+                        },
+                        {
+                            "label": "Boutique",
+                            "value": "4"
+                        },
+                        {
+                            "label": "Business",
+                            "value": "14"
+                        },
+                        {
+                            "label": "Casino",
+                            "value": "8"
+                        },
+                        {
+                            "label": "Family-friendly",
+                            "value": "25"
+                        },
+                        {
+                            "label": "Golf",
+                            "value": "26"
+                        },
+                        {
+                            "label": "Historic",
+                            "value": "2"
+                        },
+                        {
+                            "label": "LGBT Welcoming",
+                            "value": "21"
+                        },
+                        {
+                            "label": "Luxury",
+                            "value": "15"
+                        },
+                        {
+                            "label": "Romantic",
+                            "value": "1"
+                        },
+                        {
+                            "label": "Shopping",
+                            "value": "17"
+                        },
+                        {
+                            "label": "Spa Hotel",
+                            "value": "27"
+                        }
+                    ]
+                },
+                "price": {
+                    "label": "Nightly Price",
+                    "range": {
+                        "min": {
+                            "defaultValue": 0
+                        },
+                        "max": {
+                            "defaultValue": 500
+                        },
+                        "increments": 5
+                    },
+                    "multiplier": 1
+                },
+                "paymentPreference": {
+                    "items": [
+                        {
+                            "label": "Pay with Hotels.com gift card",
+                            "value": "gc"
+                        }
+                    ]
+                },
+                "welcomeRewards": {
+                    "label": "Hotels.com® Rewards",
+                    "items": [
+                        {
+                            "label": "Collect stamps",
+                            "value": "collect"
+                        },
+                        {
+                            "label": "Redeem reward* nights",
+                            "value": "redeem"
+                        }
+                    ]
+                }
+            },
+            "pointOfSale": {
+                "currency": {
+                    "code": "USD",
+                    "symbol": "$",
+                    "separators": ",.",
+                    "format": "${0}"
+                }
+            },
+            "miscellaneous": {
+                "pageViewBeaconUrl": "https://www.egadvertising.com/travelAds/v1/TravelAdPageView?deviceType=App-Phone&sort-order=PRICE&rooms=1&destRegionID=1506246&hotelIds=634418464,862447168,260469,326002,214272,1551505664,468906,260158,612705,273442,205823,571541,201844,1067471776,539303,1268797984,453028,461599,975416672,482653,479845,452020,650836736,496002,240327&adults=1&userAgent=Hotels.com/Android%2056.1.1.9.release-56_1%20(56010472)&userGuid=505218fa-3e97-4e94-9733-06f2833e09a8&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E&children=0&culture=en_US&testVersionOverride=4961.0,904.0,7561.0,7215.0,8218.0,8711.0,8928.0,9008.0,8347.0,9004.0,8952.0,7992.2,8915.0,9041.0,9729.0&domain=www.hotels.com&tac=true&userIP=127.0.0.1&action=pageview&publisher=expedia&programId=1",
+                "showLegalInfoForStrikethroughPrices": true,
+                "legalInfoForStrikethroughPrices": "The struck-out price is based on the property’s standard rate on our app, as determined and supplied by the property."
+            },
+            "pageInfo": {
+                "pageType": "dateless"
+            }
+        },
+        "common": {
+            "pointOfSale": {
+                "numberSeparators": ",.",
+                "brandName": "Hotels.com"
+            },
+            "tracking": {
+                "omniture": {
+                    "s.prop33": "D=v33",
+                    "s.prop32": "D=v43",
+                    "s.prop74": "search result without dates | ms shown | N",
+                    "s.products": "LOCAL;19794327,LOCAL;26920224,MULTISOURCE;1784927",
+                    "s.eVar16": "Mob :: aApp",
+                    "s.eVar40": "D=v0",
+                    "s.eVar41": "USD",
+                    "s.eVar63": "230d58fb-bdaa-47bd-8586-14e17d6b05bc",
+                    "s.eVar42": "dateless",
+                    "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar43": "en_US|HCOM_US|www.hotels.com",
+                    "s.eVar2": "New York, New York, United States of America",
+                    "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+                    "s.eVar7": "",
+                    "s.server": "www.hotels.com",
+                    "s.eVar6": "1506246",
+                    "s.prop29": "D=v42",
+                    "s.prop27": "505218fa-3e97-4e94-9733-06f2833e09a8",
+                    "s.eVar9": "Price - low to high",
+                    "s.eVar69": "Mob :: aApp",
+                    "s.currencyCode": "USD",
+                    "s.eVar29": "Mob :: aApp",
+                    "s.prop9": "1513",
+                    "s.prop8": "0",
+                    "s.eVar95": "Unknown",
+                    "s.prop7": "1483",
+                    "s.eVar31": "D=v0",
+                    "s.eVar32": "D=v0",
+                    "s.eVar33": "Mob :: aApp :: search result without dates",
+                    "s.eVar34": "H277:017.002,H1423:009.099,H1871:007.002,H4516:001.000,H4517:001.000,H4518:003.000,H4519.0,M904:000.000,M3736:000.000,M4440.2,M4869:001.000,M4952:028.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7066:000.000,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7561:000.000,M7870:000.000,M8336:000.000,M8347:000.000,M8692:000.000,M8698:000.000,M8714:000.000,M8718:000.000,M8847.0,M8915:000.000,M8928:000.000,M8952:000.000,M8976:000.000,M8992:000.000,M9004:000.000,M9035:000.000,M9065:000.000,M9220:000.000,M9297:000.000,M9351:000.000,M9431:000.000,M9469:000.000,M9549:000.000,M9729:000.000,M9803:000.000,M9924:000.000,M9961:000.000,M9971:000.000,M10001:000.000,M9215:001.000",
+                    "s.eVar13": "389367",
+                    "s.prop18": "D=v6",
+                    "s.prop5": "389367",
+                    "s.prop15": "",
+                    "s.prop3": "New York, New York, United States of America",
+                    "s.prop14": "D=v7",
+                    "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+                    "s.eVar93": "aws.us-west-2.unknown",
+                    "s.prop2": "Price - low to high"
+                }
+            }
+        }
+    }
+}

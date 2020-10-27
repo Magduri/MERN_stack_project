@@ -1,0 +1,48 @@
+ 
+ 
+ 
+header{
+            color: white;
+            background-color: DodgerBlue;
+            padding: 30px;
+            font-size: 50px;
+            
+            
+        }
+        
+body{
+
+            background-color: #33ccff;
+    }
+    @media all and (max-width:700px){
+    .nav{
+       flex-wrap: wrap;
+    }
+    
+}
+nav{
+    position: sticky;
+    top:0;
+    width:100%;
+    height:auto;
+    padding:10px;
+    background-color:#ff99cc;
+    display:flex;
+    z-index:1000;
+}
+ul{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    text-decoration: black;
+    text-shadow: blue;
+}
+li{
+    color:black;
+    list-style: none;
+}
+li:hover{
+    color:#990099;
+}
